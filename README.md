@@ -1,8 +1,8 @@
+[![](Projects/VerifiableReceipts.png)]()
+
 [![](Projects/TheLordofthePings.png)](https://github.com/Nour-MK/The-Lord-of-the-Pings)
 
 [![](Projects/CredentialsSystem.png)](https://github.com/AURAK-Coding-Club/Club-Credentials)
-
-[![](Projects/VerifiableReceipts.png)]()
 
 [![](Projects/Birdseye.png)]()
 
