@@ -1,7 +1,21 @@
-<!-- Using the project https://github.com/anuraghazra/github-readme-stats to display my repos within a README -->
+[![](Projects/TheLordofthePings.png)](https://github.com/Nour-MK/The-Lord-of-the-Pings)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nour-MK&repo=AURAK-CSCI-312-TuxTide\&show_owner=true)](https://github.com/Nour-MK/AURAK-CSCI-312-TuxTide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nour-MK&repo=AURAK-CSCI-499-Miles\&show_owner=true)](https://github.com/Nour-MK/AURAK-CSCI-499-Miles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AURAK-Coding-Club&repo=Tech-Talk\&show_owner=true)](https://github.com/AURAK-Coding-Club/Club-Credentials)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AURAK-Coding-Club&repo=Club-Credentials\&show_owner=true)](https://github.com/AURAK-Coding-Club/Tech-Talk)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nour-MK&repo=TheBotofMinorInconvenience\&show_owner=true)](https://github.com/Nour-MK/TheBotofMinorInconvenience)
+[![](Projects/CredentialsSystem.png)](https://github.com/AURAK-Coding-Club/Club-Credentials)
+
+[![](Projects/VerifiableReceipts.png)]()
+
+[![](Projects/Birdseye.png)]()
+
+[![](Projects/CLAWS.png)](https://github.com/MONO-1223/AURAK-CENG431-CLAWS)
+
+[![](Projects/Voltian.png)](https://github.com/MONO-1223/AURAK-CENG432-Voltian)
+
+[![](Projects/Miles.png)](https://github.com/Nour-MK/AURAK-CSCI-499-Miles)
+
+[![](Projects/MicroMorse.png)](https://github.com/MONO-1223/AURAK-CENG315-MicroMorse)
+
+[![](Projects/EnviroMate.png)]()
+
+[![](Projects/Seshat.png)]()
+
+[![](Projects/SubRosa.png)]()
